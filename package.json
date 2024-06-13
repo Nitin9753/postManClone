@@ -43,5 +43,8 @@
   },
   "resolutions": {
     "mini-css-extract-plugin": "2.4.5"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
